@@ -1,0 +1,27 @@
+{
+  "api/BiltegiAplikazioa.Produktua.html": {
+    "href": "api/BiltegiAplikazioa.Produktua.html",
+    "title": "Class Produktua | probaa",
+    "summary": "Class Produktua Namespace BiltegiAplikazioa Assembly GarapenProba.dll dssds public class Produktua Inheritance object Produktua Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors Produktua(string, int, double, DateTime) Initializes a new instance of the Produktua class. public Produktua(string izena, int stocka, double prezioa, DateTime data) Parameters izena string The izena. stocka int The stocka. prezioa double The prezioa. data DateTime The data. Properties Izena public string Izena { get; set; } Property Value string Prezioa public double Prezioa { get; set; } Property Value double SarreraData public DateTime SarreraData { get; set; } Property Value DateTime Stocka public int Stocka { get; set; } Property Value int Methods SalmentaEgin(int) Salmentas the egin. public bool SalmentaEgin(int kantitatea) Parameters kantitatea int The kantitatea. Returns bool"
+  },
+  "api/BiltegiAplikazioa.html": {
+    "href": "api/BiltegiAplikazioa.html",
+    "title": "Namespace BiltegiAplikazioa | probaa",
+    "summary": "Namespace BiltegiAplikazioa Classes Produktua dssds"
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | probaa",
+    "summary": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | probaa",
+    "summary": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | probaa",
+    "summary": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}

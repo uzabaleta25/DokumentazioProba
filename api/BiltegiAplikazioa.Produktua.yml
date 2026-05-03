@@ -1,0 +1,588 @@
+### YamlMime:ManagedReference
+items:
+- uid: BiltegiAplikazioa.Produktua
+  commentId: T:BiltegiAplikazioa.Produktua
+  id: Produktua
+  parent: BiltegiAplikazioa
+  children:
+  - BiltegiAplikazioa.Produktua.#ctor(System.String,System.Int32,System.Double,System.DateTime)
+  - BiltegiAplikazioa.Produktua.Izena
+  - BiltegiAplikazioa.Produktua.Prezioa
+  - BiltegiAplikazioa.Produktua.SalmentaEgin(System.Int32)
+  - BiltegiAplikazioa.Produktua.SarreraData
+  - BiltegiAplikazioa.Produktua.Stocka
+  langs:
+  - csharp
+  - vb
+  name: Produktua
+  nameWithType: Produktua
+  fullName: BiltegiAplikazioa.Produktua
+  type: Class
+  source:
+    remote:
+      path: Desktop/3Erronka/GarapenProba/GarapenProba/Program.cs
+      branch: main
+      repo: https://github.com/ZURE_ERABILTZAILEA/TicketBaiErronka.git
+    id: Produktua
+    path: ../Program.cs
+    startLine: 8
+  assemblies:
+  - GarapenProba
+  namespace: BiltegiAplikazioa
+  summary: <br /> dssds
+  example: []
+  syntax:
+    content: public class Produktua
+    content.vb: Public Class Produktua
+  inheritance:
+  - System.Object
+  inheritedMembers:
+  - System.Object.Equals(System.Object)
+  - System.Object.Equals(System.Object,System.Object)
+  - System.Object.GetHashCode
+  - System.Object.GetType
+  - System.Object.MemberwiseClone
+  - System.Object.ReferenceEquals(System.Object,System.Object)
+  - System.Object.ToString
+- uid: BiltegiAplikazioa.Produktua.Izena
+  commentId: P:BiltegiAplikazioa.Produktua.Izena
+  id: Izena
+  parent: BiltegiAplikazioa.Produktua
+  langs:
+  - csharp
+  - vb
+  name: Izena
+  nameWithType: Produktua.Izena
+  fullName: BiltegiAplikazioa.Produktua.Izena
+  type: Property
+  source:
+    remote:
+      path: Desktop/3Erronka/GarapenProba/GarapenProba/Program.cs
+      branch: main
+      repo: https://github.com/ZURE_ERABILTZAILEA/TicketBaiErronka.git
+    id: Izena
+    path: ../Program.cs
+    startLine: 11
+  assemblies:
+  - GarapenProba
+  namespace: BiltegiAplikazioa
+  syntax:
+    content: public string Izena { get; set; }
+    parameters: []
+    return:
+      type: System.String
+    content.vb: Public Property Izena As String
+  overload: BiltegiAplikazioa.Produktua.Izena*
+- uid: BiltegiAplikazioa.Produktua.Stocka
+  commentId: P:BiltegiAplikazioa.Produktua.Stocka
+  id: Stocka
+  parent: BiltegiAplikazioa.Produktua
+  langs:
+  - csharp
+  - vb
+  name: Stocka
+  nameWithType: Produktua.Stocka
+  fullName: BiltegiAplikazioa.Produktua.Stocka
+  type: Property
+  source:
+    remote:
+      path: Desktop/3Erronka/GarapenProba/GarapenProba/Program.cs
+      branch: main
+      repo: https://github.com/ZURE_ERABILTZAILEA/TicketBaiErronka.git
+    id: Stocka
+    path: ../Program.cs
+    startLine: 12
+  assemblies:
+  - GarapenProba
+  namespace: BiltegiAplikazioa
+  syntax:
+    content: public int Stocka { get; set; }
+    parameters: []
+    return:
+      type: System.Int32
+    content.vb: Public Property Stocka As Integer
+  overload: BiltegiAplikazioa.Produktua.Stocka*
+- uid: BiltegiAplikazioa.Produktua.Prezioa
+  commentId: P:BiltegiAplikazioa.Produktua.Prezioa
+  id: Prezioa
+  parent: BiltegiAplikazioa.Produktua
+  langs:
+  - csharp
+  - vb
+  name: Prezioa
+  nameWithType: Produktua.Prezioa
+  fullName: BiltegiAplikazioa.Produktua.Prezioa
+  type: Property
+  source:
+    remote:
+      path: Desktop/3Erronka/GarapenProba/GarapenProba/Program.cs
+      branch: main
+      repo: https://github.com/ZURE_ERABILTZAILEA/TicketBaiErronka.git
+    id: Prezioa
+    path: ../Program.cs
+    startLine: 13
+  assemblies:
+  - GarapenProba
+  namespace: BiltegiAplikazioa
+  syntax:
+    content: public double Prezioa { get; set; }
+    parameters: []
+    return:
+      type: System.Double
+    content.vb: Public Property Prezioa As Double
+  overload: BiltegiAplikazioa.Produktua.Prezioa*
+- uid: BiltegiAplikazioa.Produktua.SarreraData
+  commentId: P:BiltegiAplikazioa.Produktua.SarreraData
+  id: SarreraData
+  parent: BiltegiAplikazioa.Produktua
+  langs:
+  - csharp
+  - vb
+  name: SarreraData
+  nameWithType: Produktua.SarreraData
+  fullName: BiltegiAplikazioa.Produktua.SarreraData
+  type: Property
+  source:
+    remote:
+      path: Desktop/3Erronka/GarapenProba/GarapenProba/Program.cs
+      branch: main
+      repo: https://github.com/ZURE_ERABILTZAILEA/TicketBaiErronka.git
+    id: SarreraData
+    path: ../Program.cs
+    startLine: 14
+  assemblies:
+  - GarapenProba
+  namespace: BiltegiAplikazioa
+  syntax:
+    content: public DateTime SarreraData { get; set; }
+    parameters: []
+    return:
+      type: System.DateTime
+    content.vb: Public Property SarreraData As Date
+  overload: BiltegiAplikazioa.Produktua.SarreraData*
+- uid: BiltegiAplikazioa.Produktua.#ctor(System.String,System.Int32,System.Double,System.DateTime)
+  commentId: M:BiltegiAplikazioa.Produktua.#ctor(System.String,System.Int32,System.Double,System.DateTime)
+  id: '#ctor(System.String,System.Int32,System.Double,System.DateTime)'
+  parent: BiltegiAplikazioa.Produktua
+  langs:
+  - csharp
+  - vb
+  name: Produktua(string, int, double, DateTime)
+  nameWithType: Produktua.Produktua(string, int, double, DateTime)
+  fullName: BiltegiAplikazioa.Produktua.Produktua(string, int, double, System.DateTime)
+  type: Constructor
+  source:
+    remote:
+      path: Desktop/3Erronka/GarapenProba/GarapenProba/Program.cs
+      branch: main
+      repo: https://github.com/ZURE_ERABILTZAILEA/TicketBaiErronka.git
+    id: .ctor
+    path: ../Program.cs
+    startLine: 22
+  assemblies:
+  - GarapenProba
+  namespace: BiltegiAplikazioa
+  summary: Initializes a new instance of the <xref href="BiltegiAplikazioa.Produktua" data-throw-if-not-resolved="false"></xref> class.
+  example: []
+  syntax:
+    content: public Produktua(string izena, int stocka, double prezioa, DateTime data)
+    parameters:
+    - id: izena
+      type: System.String
+      description: The izena.
+    - id: stocka
+      type: System.Int32
+      description: The stocka.
+    - id: prezioa
+      type: System.Double
+      description: The prezioa.
+    - id: data
+      type: System.DateTime
+      description: The data.
+    content.vb: Public Sub New(izena As String, stocka As Integer, prezioa As Double, data As Date)
+  overload: BiltegiAplikazioa.Produktua.#ctor*
+  nameWithType.vb: Produktua.New(String, Integer, Double, Date)
+  fullName.vb: BiltegiAplikazioa.Produktua.New(String, Integer, Double, Date)
+  name.vb: New(String, Integer, Double, Date)
+- uid: BiltegiAplikazioa.Produktua.SalmentaEgin(System.Int32)
+  commentId: M:BiltegiAplikazioa.Produktua.SalmentaEgin(System.Int32)
+  id: SalmentaEgin(System.Int32)
+  parent: BiltegiAplikazioa.Produktua
+  langs:
+  - csharp
+  - vb
+  name: SalmentaEgin(int)
+  nameWithType: Produktua.SalmentaEgin(int)
+  fullName: BiltegiAplikazioa.Produktua.SalmentaEgin(int)
+  type: Method
+  source:
+    remote:
+      path: Desktop/3Erronka/GarapenProba/GarapenProba/Program.cs
+      branch: main
+      repo: https://github.com/ZURE_ERABILTZAILEA/TicketBaiErronka.git
+    id: SalmentaEgin
+    path: ../Program.cs
+    startLine: 36
+  assemblies:
+  - GarapenProba
+  namespace: BiltegiAplikazioa
+  summary: Salmentas the egin.
+  example: []
+  syntax:
+    content: public bool SalmentaEgin(int kantitatea)
+    parameters:
+    - id: kantitatea
+      type: System.Int32
+      description: The kantitatea.
+    return:
+      type: System.Boolean
+      description: <br />
+    content.vb: Public Function SalmentaEgin(kantitatea As Integer) As Boolean
+  overload: BiltegiAplikazioa.Produktua.SalmentaEgin*
+  nameWithType.vb: Produktua.SalmentaEgin(Integer)
+  fullName.vb: BiltegiAplikazioa.Produktua.SalmentaEgin(Integer)
+  name.vb: SalmentaEgin(Integer)
+references:
+- uid: BiltegiAplikazioa
+  commentId: N:BiltegiAplikazioa
+  href: BiltegiAplikazioa.html
+  name: BiltegiAplikazioa
+  nameWithType: BiltegiAplikazioa
+  fullName: BiltegiAplikazioa
+- uid: System.Object
+  commentId: T:System.Object
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object
+  name: object
+  nameWithType: object
+  fullName: object
+  nameWithType.vb: Object
+  fullName.vb: Object
+  name.vb: Object
+- uid: System.Object.Equals(System.Object)
+  commentId: M:System.Object.Equals(System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  name: Equals(object)
+  nameWithType: object.Equals(object)
+  fullName: object.Equals(object)
+  nameWithType.vb: Object.Equals(Object)
+  fullName.vb: Object.Equals(Object)
+  name.vb: Equals(Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.Equals(System.Object,System.Object)
+  commentId: M:System.Object.Equals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  name: Equals(object, object)
+  nameWithType: object.Equals(object, object)
+  fullName: object.Equals(object, object)
+  nameWithType.vb: Object.Equals(Object, Object)
+  fullName.vb: Object.Equals(Object, Object)
+  name.vb: Equals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.GetHashCode
+  commentId: M:System.Object.GetHashCode
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  name: GetHashCode()
+  nameWithType: object.GetHashCode()
+  fullName: object.GetHashCode()
+  nameWithType.vb: Object.GetHashCode()
+  fullName.vb: Object.GetHashCode()
+  spec.csharp:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+- uid: System.Object.GetType
+  commentId: M:System.Object.GetType
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  name: GetType()
+  nameWithType: object.GetType()
+  fullName: object.GetType()
+  nameWithType.vb: Object.GetType()
+  fullName.vb: Object.GetType()
+  spec.csharp:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+- uid: System.Object.MemberwiseClone
+  commentId: M:System.Object.MemberwiseClone
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  name: MemberwiseClone()
+  nameWithType: object.MemberwiseClone()
+  fullName: object.MemberwiseClone()
+  nameWithType.vb: Object.MemberwiseClone()
+  fullName.vb: Object.MemberwiseClone()
+  spec.csharp:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+- uid: System.Object.ReferenceEquals(System.Object,System.Object)
+  commentId: M:System.Object.ReferenceEquals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  name: ReferenceEquals(object, object)
+  nameWithType: object.ReferenceEquals(object, object)
+  fullName: object.ReferenceEquals(object, object)
+  nameWithType.vb: Object.ReferenceEquals(Object, Object)
+  fullName.vb: Object.ReferenceEquals(Object, Object)
+  name.vb: ReferenceEquals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.ToString
+  commentId: M:System.Object.ToString
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  name: ToString()
+  nameWithType: object.ToString()
+  fullName: object.ToString()
+  nameWithType.vb: Object.ToString()
+  fullName.vb: Object.ToString()
+  spec.csharp:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+- uid: System
+  commentId: N:System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System
+  nameWithType: System
+  fullName: System
+- uid: BiltegiAplikazioa.Produktua.Izena*
+  commentId: Overload:BiltegiAplikazioa.Produktua.Izena
+  href: BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_Izena
+  name: Izena
+  nameWithType: Produktua.Izena
+  fullName: BiltegiAplikazioa.Produktua.Izena
+- uid: System.String
+  commentId: T:System.String
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.string
+  name: string
+  nameWithType: string
+  fullName: string
+  nameWithType.vb: String
+  fullName.vb: String
+  name.vb: String
+- uid: BiltegiAplikazioa.Produktua.Stocka*
+  commentId: Overload:BiltegiAplikazioa.Produktua.Stocka
+  href: BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_Stocka
+  name: Stocka
+  nameWithType: Produktua.Stocka
+  fullName: BiltegiAplikazioa.Produktua.Stocka
+- uid: System.Int32
+  commentId: T:System.Int32
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.int32
+  name: int
+  nameWithType: int
+  fullName: int
+  nameWithType.vb: Integer
+  fullName.vb: Integer
+  name.vb: Integer
+- uid: BiltegiAplikazioa.Produktua.Prezioa*
+  commentId: Overload:BiltegiAplikazioa.Produktua.Prezioa
+  href: BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_Prezioa
+  name: Prezioa
+  nameWithType: Produktua.Prezioa
+  fullName: BiltegiAplikazioa.Produktua.Prezioa
+- uid: System.Double
+  commentId: T:System.Double
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.double
+  name: double
+  nameWithType: double
+  fullName: double
+  nameWithType.vb: Double
+  fullName.vb: Double
+  name.vb: Double
+- uid: BiltegiAplikazioa.Produktua.SarreraData*
+  commentId: Overload:BiltegiAplikazioa.Produktua.SarreraData
+  href: BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_SarreraData
+  name: SarreraData
+  nameWithType: Produktua.SarreraData
+  fullName: BiltegiAplikazioa.Produktua.SarreraData
+- uid: System.DateTime
+  commentId: T:System.DateTime
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.datetime
+  name: DateTime
+  nameWithType: DateTime
+  fullName: System.DateTime
+  nameWithType.vb: Date
+  fullName.vb: Date
+  name.vb: Date
+- uid: BiltegiAplikazioa.Produktua
+  commentId: T:BiltegiAplikazioa.Produktua
+  href: BiltegiAplikazioa.Produktua.html
+  name: Produktua
+  nameWithType: Produktua
+  fullName: BiltegiAplikazioa.Produktua
+- uid: BiltegiAplikazioa.Produktua.#ctor*
+  commentId: Overload:BiltegiAplikazioa.Produktua.#ctor
+  href: BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua__ctor_System_String_System_Int32_System_Double_System_DateTime_
+  name: Produktua
+  nameWithType: Produktua.Produktua
+  fullName: BiltegiAplikazioa.Produktua.Produktua
+  nameWithType.vb: Produktua.New
+  fullName.vb: BiltegiAplikazioa.Produktua.New
+  name.vb: New
+- uid: BiltegiAplikazioa.Produktua.SalmentaEgin*
+  commentId: Overload:BiltegiAplikazioa.Produktua.SalmentaEgin
+  href: BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_SalmentaEgin_System_Int32_
+  name: SalmentaEgin
+  nameWithType: Produktua.SalmentaEgin
+  fullName: BiltegiAplikazioa.Produktua.SalmentaEgin
+- uid: System.Boolean
+  commentId: T:System.Boolean
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.boolean
+  name: bool
+  nameWithType: bool
+  fullName: bool
+  nameWithType.vb: Boolean
+  fullName.vb: Boolean
+  name.vb: Boolean

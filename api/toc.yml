@@ -1,0 +1,10 @@
+### YamlMime:TableOfContent
+items:
+- uid: BiltegiAplikazioa
+  name: BiltegiAplikazioa
+  type: Namespace
+  items:
+  - uid: BiltegiAplikazioa.Produktua
+    name: Produktua
+    type: Class
+memberLayout: SamePage

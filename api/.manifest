@@ -1,0 +1,10 @@
+{
+  "BiltegiAplikazioa": "BiltegiAplikazioa.yml",
+  "BiltegiAplikazioa.Produktua": "BiltegiAplikazioa.Produktua.yml",
+  "BiltegiAplikazioa.Produktua.#ctor(System.String,System.Int32,System.Double,System.DateTime)": "BiltegiAplikazioa.Produktua.yml",
+  "BiltegiAplikazioa.Produktua.Izena": "BiltegiAplikazioa.Produktua.yml",
+  "BiltegiAplikazioa.Produktua.Prezioa": "BiltegiAplikazioa.Produktua.yml",
+  "BiltegiAplikazioa.Produktua.SalmentaEgin(System.Int32)": "BiltegiAplikazioa.Produktua.yml",
+  "BiltegiAplikazioa.Produktua.SarreraData": "BiltegiAplikazioa.Produktua.yml",
+  "BiltegiAplikazioa.Produktua.Stocka": "BiltegiAplikazioa.Produktua.yml"
+}

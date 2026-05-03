@@ -1,0 +1,102 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: BiltegiAplikazioa
+  name: BiltegiAplikazioa
+  href: api/BiltegiAplikazioa.html
+  commentId: N:BiltegiAplikazioa
+  fullName: BiltegiAplikazioa
+  nameWithType: BiltegiAplikazioa
+- uid: BiltegiAplikazioa.Produktua
+  name: Produktua
+  href: api/BiltegiAplikazioa.Produktua.html
+  commentId: T:BiltegiAplikazioa.Produktua
+  fullName: BiltegiAplikazioa.Produktua
+  nameWithType: Produktua
+- uid: BiltegiAplikazioa.Produktua.#ctor(System.String,System.Int32,System.Double,System.DateTime)
+  name: Produktua(string, int, double, DateTime)
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua__ctor_System_String_System_Int32_System_Double_System_DateTime_
+  commentId: M:BiltegiAplikazioa.Produktua.#ctor(System.String,System.Int32,System.Double,System.DateTime)
+  name.vb: New(String, Integer, Double, Date)
+  fullName: BiltegiAplikazioa.Produktua.Produktua(string, int, double, System.DateTime)
+  fullName.vb: BiltegiAplikazioa.Produktua.New(String, Integer, Double, Date)
+  nameWithType: Produktua.Produktua(string, int, double, DateTime)
+  nameWithType.vb: Produktua.New(String, Integer, Double, Date)
+- uid: BiltegiAplikazioa.Produktua.#ctor*
+  name: Produktua
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua__ctor_
+  commentId: Overload:BiltegiAplikazioa.Produktua.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BiltegiAplikazioa.Produktua.Produktua
+  fullName.vb: BiltegiAplikazioa.Produktua.New
+  nameWithType: Produktua.Produktua
+  nameWithType.vb: Produktua.New
+- uid: BiltegiAplikazioa.Produktua.Izena
+  name: Izena
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_Izena
+  commentId: P:BiltegiAplikazioa.Produktua.Izena
+  fullName: BiltegiAplikazioa.Produktua.Izena
+  nameWithType: Produktua.Izena
+- uid: BiltegiAplikazioa.Produktua.Izena*
+  name: Izena
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_Izena_
+  commentId: Overload:BiltegiAplikazioa.Produktua.Izena
+  isSpec: "True"
+  fullName: BiltegiAplikazioa.Produktua.Izena
+  nameWithType: Produktua.Izena
+- uid: BiltegiAplikazioa.Produktua.Prezioa
+  name: Prezioa
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_Prezioa
+  commentId: P:BiltegiAplikazioa.Produktua.Prezioa
+  fullName: BiltegiAplikazioa.Produktua.Prezioa
+  nameWithType: Produktua.Prezioa
+- uid: BiltegiAplikazioa.Produktua.Prezioa*
+  name: Prezioa
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_Prezioa_
+  commentId: Overload:BiltegiAplikazioa.Produktua.Prezioa
+  isSpec: "True"
+  fullName: BiltegiAplikazioa.Produktua.Prezioa
+  nameWithType: Produktua.Prezioa
+- uid: BiltegiAplikazioa.Produktua.SalmentaEgin(System.Int32)
+  name: SalmentaEgin(int)
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_SalmentaEgin_System_Int32_
+  commentId: M:BiltegiAplikazioa.Produktua.SalmentaEgin(System.Int32)
+  name.vb: SalmentaEgin(Integer)
+  fullName: BiltegiAplikazioa.Produktua.SalmentaEgin(int)
+  fullName.vb: BiltegiAplikazioa.Produktua.SalmentaEgin(Integer)
+  nameWithType: Produktua.SalmentaEgin(int)
+  nameWithType.vb: Produktua.SalmentaEgin(Integer)
+- uid: BiltegiAplikazioa.Produktua.SalmentaEgin*
+  name: SalmentaEgin
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_SalmentaEgin_
+  commentId: Overload:BiltegiAplikazioa.Produktua.SalmentaEgin
+  isSpec: "True"
+  fullName: BiltegiAplikazioa.Produktua.SalmentaEgin
+  nameWithType: Produktua.SalmentaEgin
+- uid: BiltegiAplikazioa.Produktua.SarreraData
+  name: SarreraData
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_SarreraData
+  commentId: P:BiltegiAplikazioa.Produktua.SarreraData
+  fullName: BiltegiAplikazioa.Produktua.SarreraData
+  nameWithType: Produktua.SarreraData
+- uid: BiltegiAplikazioa.Produktua.SarreraData*
+  name: SarreraData
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_SarreraData_
+  commentId: Overload:BiltegiAplikazioa.Produktua.SarreraData
+  isSpec: "True"
+  fullName: BiltegiAplikazioa.Produktua.SarreraData
+  nameWithType: Produktua.SarreraData
+- uid: BiltegiAplikazioa.Produktua.Stocka
+  name: Stocka
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_Stocka
+  commentId: P:BiltegiAplikazioa.Produktua.Stocka
+  fullName: BiltegiAplikazioa.Produktua.Stocka
+  nameWithType: Produktua.Stocka
+- uid: BiltegiAplikazioa.Produktua.Stocka*
+  name: Stocka
+  href: api/BiltegiAplikazioa.Produktua.html#BiltegiAplikazioa_Produktua_Stocka_
+  commentId: Overload:BiltegiAplikazioa.Produktua.Stocka
+  isSpec: "True"
+  fullName: BiltegiAplikazioa.Produktua.Stocka
+  nameWithType: Produktua.Stocka

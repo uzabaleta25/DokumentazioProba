@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: BiltegiAplikazioa
+  commentId: N:BiltegiAplikazioa
+  id: BiltegiAplikazioa
+  children:
+  - BiltegiAplikazioa.Produktua
+  langs:
+  - csharp
+  - vb
+  name: BiltegiAplikazioa
+  nameWithType: BiltegiAplikazioa
+  fullName: BiltegiAplikazioa
+  type: Namespace
+  assemblies:
+  - GarapenProba
+references:
+- uid: BiltegiAplikazioa.Produktua
+  commentId: T:BiltegiAplikazioa.Produktua
+  href: BiltegiAplikazioa.Produktua.html
+  name: Produktua
+  nameWithType: Produktua
+  fullName: BiltegiAplikazioa.Produktua
